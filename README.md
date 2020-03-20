@@ -49,5 +49,5 @@ que viajan a través del puerto trunk de un switch conectado a esa interface”)
 
 ## Ejecutar PKT
 Instalar [Cisco Packet Tracer](https://www.netacad.com/es/courses/packet-tracer) 
-descargar el proyecto [Urbanizacion_Milann_Etapa_Turin.pkt](../master/Urbanizacion_Millan_Etapa_Turin.pkt),
+descargar el proyecto [Urbanizacion_Milann_Etapa_Turin.pkt](../master/%20Urbanizacion_Millan_Etapa_Turin.pkt),
 ejecutarlo y ver el funcionamiento adecuado.
