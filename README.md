@@ -48,5 +48,5 @@ tenemos con esta configuración la posibilidad de utilizar una sola interface pa
 que viajan a través del puerto trunk de un switch conectado a esa interface”).
 
 ## Ejecutar PKT
-Instalar [Cisco Packet Tracer](https://www.netacad.com/es/courses/packet-tracer) descargar el proyecto [Urbanizacion Milann Etapa Turin.pkt](../master/Urbanizacion%20Millan%20Etapa%20Turin.pkt),
+Instalar [Cisco Packet Tracer](https://www.netacad.com/es/courses/packet-tracer) descargar el proyecto [Urbanizacion Milann Etapa Turin.pkt](https://github.com/BryanMaciasUPS/Network-Topology/blob/master/Urbanizacion%20Millan%20Etapa%20Turin.pkt),
 ejecutarlo y ver el funcionamiento adecuado.
